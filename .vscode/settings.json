@@ -1,0 +1,14 @@
+{
+    "liveSassCompile.settings.formats": [
+        // You can add more
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "/css"
+        }
+
+    ],
+    "liveSassCompile.settings.showOutputWindow": false,
+    "liveServer.settings.port": 5501,
+
+}
